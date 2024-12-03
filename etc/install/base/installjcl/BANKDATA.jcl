@@ -9,7 +9,7 @@
 //* Change @BANK_PREFIX@ to be CBSA.CICSBSA
 //*  - the high level qualifiers of your VSAM *
 //*
-//* Change @DB2_HLQ@ to be DSNC10
+//* Change @DB2_HLQ@ to be DSND10
 //*  - to the high level qualifiers of your DB2  *
 //*
 //* Change @BANK_DBRMLIB@ to CBSA.CICSBSA.DBRM
